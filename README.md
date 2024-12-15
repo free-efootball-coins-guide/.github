@@ -1,0 +1,2 @@
+# .github
+eFootball Free Coins is a tool designed to help players earn free coins for the eFootball game. With this tool, you can quickly collect coins without the need for tedious in-game purchases. It offers a simple, user-friendly interface that lets you collect coins daily, ensuring you always have the resources to enhance your gameplay. Whether you're aiming for new players, exclusive items, or upgrades, eFootball Free Coins helps you stay competitive without spending real money.
